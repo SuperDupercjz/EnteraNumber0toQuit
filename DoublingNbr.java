@@ -6,7 +6,7 @@ public class DoublingNbr{
  double originalNumber;
  double calculatedNumber;
  
- // Get a number from a user to play the game
+ // Get a number 
  System.out.print("Enter a number: ");
  originalNumber = keyboard.nextDouble();
  while (originalNumber != 0){
@@ -21,3 +21,5 @@ public class DoublingNbr{
  System.out.println(" Thanks for playing!");
  }//end main
 }//end class
+//i can use this as a skeleton
+//use for homework week 3 because good example
