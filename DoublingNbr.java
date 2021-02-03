@@ -17,7 +17,7 @@ public class DoublingNbr{
     // ask the user for another number or sentinal 0 to quit
      System.out.print("Enter a number or 0 to quit game: ");
  originalNumber = keyboard.nextDouble();
- } // end while
+ } // end while 
  System.out.println(" Thanks for playing!");
  }//end main
 }//end class
